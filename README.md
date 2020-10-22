@@ -14,3 +14,19 @@ During the second week in January and the third week of February, the rural area
 Generally, the weekly fare per ridership is higher in the urban areas when compared to ridership in the other areas.
 
 <img src = 'https://github.com/osbornej-tech/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png'>
+
+## Datafiles: 
+
+* [City CSV File](https://github.com/osbornej-tech/PyBer_Analysis/blob/main/Resources/city_data.csv)
+
+* [Ride CSV File](https://github.com/osbornej-tech/PyBer_Analysis/blob/main/Resources/ride_data.csv)
+
+* [PyBer Ridership CSV File](https://github.com/osbornej-tech/PyBer_Analysis/blob/main/Resources/PyBer_ride_data.csv)
+
+* [Jupyter Notebook](https://github.com/osbornej-tech/PyBer_Analysis/blob/main/PyBer_Challenge.ipynb)
+
+## Dependencies: 
+
+* import matplotlib.pyplot a splt
+* from matplotlib import style
+* import pandas as df
